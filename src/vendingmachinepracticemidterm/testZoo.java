@@ -10,6 +10,7 @@ package vendingmachinepracticemidterm;
  * @author Revenger Mini
  *Hello Kevin, I am testing pull
  * Hello Im practicing branching and cloning then pushing 
+ * cool I just merged a branch to my master class 
  */
 public class testZoo {
     public static void main(String[]args){
