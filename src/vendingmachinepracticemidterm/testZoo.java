@@ -9,6 +9,7 @@ package vendingmachinepracticemidterm;
  *
  * @author Revenger Mini
  *Hello Kevin, I am testing pull
+ * Hello Im practicing branching and cloning then pushing 
  */
 public class testZoo {
     public static void main(String[]args){
